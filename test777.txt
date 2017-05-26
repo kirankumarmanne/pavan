@@ -1,0 +1,11 @@
+ Volume in drive C is New Volume
+ Volume Serial Number is 9659-0C1F
+
+ Directory of C:\Users\kiran\Desktop\My project
+
+26-05-2017  10:00    <DIR>          .
+26-05-2017  10:00    <DIR>          ..
+26-05-2017  09:21               350 test27.txt
+26-05-2017  10:00                 0 test777.txt
+               2 File(s)            350 bytes
+               2 Dir(s)  456,777,519,104 bytes free
